@@ -13,5 +13,6 @@ The input data set **UCI HAR Dataset** folder must contain the following:
 * __test__ folder that contains: subject\_test.txt, X\_test.txt, y\_test.txt
 * __train__ folder that contains: subject\_train.txt, X\_train.txt, y\_train.txt
 
+**CodeBook.md** contains a description of the output dataset.
 
 
